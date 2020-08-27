@@ -1,0 +1,37 @@
+====================================================
+hse-libraries.lvproj
+====================================================
+
+HAMPEL SOFTWARE ENGINEERING
+www.hampel-soft.com
+
+----------------------------------------------------
+Git Tag No: v2.4.4
+Git Commit: 02f58dc1be741a4adc6c31ec8724b7eea96c1519
+----------------------------------------------------
+Build Spec: hse_source_dist
+Build Trgt: My Computer
+Build Time: 2020-05-26 17:37
+----------------------------------------------------
+LabVIEW:    2014 (14.0.1f11)
+OpSystem:   Windows 10 Enterprise 
+OS Build:   9600
+----------------------------------------------------
+
+
+====================================================
+Release Notes
+====================================================
+
+[FIX] replace CBR with Start Async Call when loading API Tester dynamically
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Built with HSE's Release Automation Tools (v3.6.0)!
+Visit rat.hampel-soft.com for more info on CI/CD...
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+            HAMPEL SOFTWARE ENGINEERING
+         Create Better NI LabVIEW Software!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
