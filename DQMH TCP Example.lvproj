@@ -164,6 +164,10 @@
 			</Item>
 		</Item>
 		<Item Name="Modules" Type="Folder">
+			<Item Name="TCP Client Module" Type="Folder">
+				<Item Name="TCP Client.lvlib" Type="Library" URL="../Modules/TCP Client/TCP Client.lvlib"/>
+				<Item Name="Test TCP Client API.vi" Type="VI" URL="../Modules/TCP Client/Test TCP Client API.vi"/>
+			</Item>
 			<Item Name="TCP Sever Module" Type="Folder">
 				<Item Name="TCP Sever.lvlib" Type="Library" URL="../Modules/TCP Sever/TCP Sever.lvlib"/>
 				<Item Name="Test TCP Sever API.vi" Type="VI" URL="../Modules/TCP Sever/Test TCP Sever API.vi"/>
